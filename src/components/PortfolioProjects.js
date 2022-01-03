@@ -61,6 +61,7 @@ const PortfolioProjects = () => {
                 modalTwo = "The objective for this project was to gain experience using data from an external API with an interactive front end."
               />
 
+{/*
               <Project
                 image = {openTicket}
                 imageDetail = {openTicketDetail}
@@ -72,6 +73,7 @@ const PortfolioProjects = () => {
                 modal = "Open Ticket is an easy to use issue tracker made with MongoDB, Express, React, and Node.js. Create a new ticket or track your progress on an existing ticket using journal entries."
                 modalTwo = "The idea for this application came from my experience using issue tracking applications in the IT field. The goal of the project was to create an online version of the issue trackers that many IT specialists use every day."
               />
+*/}
 
               <Project
                 image = {aperture}

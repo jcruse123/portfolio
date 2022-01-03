@@ -53,7 +53,7 @@ class PortfolioContact extends React.Component {
 
           <div className="mt-5">
             <p>jcruse123@gmail.com</p>
-            <p>Denver, CO</p>
+            <p>Madison, MS</p>
           </div>
 
         </Container>
